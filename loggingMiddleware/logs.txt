@@ -1,0 +1,122 @@
+[2025-07-28T06:06:44.782Z] HTTP GET / at 2025-07-28T06:06:44.782Z
+[2025-07-28T06:08:06.708Z] HTTP GET / at 2025-07-28T06:08:06.707Z
+[2025-07-28T06:08:06.740Z] HTTP GET /favicon.ico at 2025-07-28T06:08:06.740Z
+[2025-07-28T06:09:33.395Z] HTTP GET /api/url/shorten at 2025-07-28T06:09:33.394Z
+[2025-07-28T06:09:33.397Z] Invalid redirect attempt for code: shorten (not found)
+[2025-07-28T06:10:53.222Z] HTTP GET /api/url/shorten at 2025-07-28T06:10:53.222Z
+[2025-07-28T06:17:08.135Z] HTTP POST /api/url/shorten at 2025-07-28T06:17:08.135Z
+[2025-07-28T06:17:18.942Z] HTTP POST /api/url/shorten at 2025-07-28T06:17:18.942Z
+[2025-07-28T06:17:18.943Z] URL shortened: 3bIGu6 -> http://localhost:5173/?
+[2025-07-28T06:18:49.472Z] HTTP GET /api/url/3bIGu6 at 2025-07-28T06:18:49.472Z
+[2025-07-28T06:18:49.473Z] Redirecting 3bIGu6 -> http://localhost:5173/?
+[2025-07-28T06:19:21.718Z] HTTP POST /api/url/shorten at 2025-07-28T06:19:21.718Z
+[2025-07-28T06:19:21.721Z] URL shortened: wUaVbE -> http://localhost:5173/?
+[2025-07-28T06:19:23.568Z] HTTP GET /api/url/wUaVbE at 2025-07-28T06:19:23.568Z
+[2025-07-28T06:19:23.569Z] Redirecting wUaVbE -> http://localhost:5173/?
+[2025-07-28T06:19:31.976Z] HTTP GET /api/url/wUaVbE at 2025-07-28T06:19:31.976Z
+[2025-07-28T06:19:31.976Z] Redirecting wUaVbE -> http://localhost:5173/?
+[2025-07-28T06:21:01.495Z] HTTP POST /api/url/shorten at 2025-07-28T06:21:01.494Z
+[2025-07-28T06:21:01.498Z] URL shortened: 3mjTrZ -> http://localhost:5173/
+[2025-07-28T06:22:02.494Z] Redirecting 3mjTrZ -> http://localhost:5173/
+[2025-07-28T06:22:02.493Z] HTTP GET /api/url/3mjTrZ at 2025-07-28T06:22:02.493Z
+[2025-07-28T06:22:47.711Z] HTTP POST /api/url/shorten at 2025-07-28T06:22:47.711Z
+[2025-07-28T06:22:47.714Z] URL shortened: 0WIAWK -> http://localhost:5173/?
+[2025-07-28T06:22:48.980Z] HTTP GET /api/url/0WIAWK at 2025-07-28T06:22:48.980Z
+[2025-07-28T06:22:48.980Z] Redirecting 0WIAWK -> http://localhost:5173/?
+[2025-07-28T06:28:07.088Z] HTTP POST /api/url/shorten at 2025-07-28T06:28:07.088Z
+[2025-07-28T06:28:07.091Z] URL shortened: 4tq5jj -> http://localhost:5173/?
+[2025-07-28T06:30:38.482Z] HTTP POST /api/url/shorten at 2025-07-28T06:30:38.482Z
+[2025-07-28T06:30:38.483Z] URL shortened: X0LWWK -> http://localhost:5173/?
+[2025-07-28T06:30:45.515Z] HTTP GET /api/url/X0LWWK at 2025-07-28T06:30:45.515Z
+[2025-07-28T06:30:45.515Z] Redirecting X0LWWK -> http://localhost:5173/?
+[2025-07-28T06:33:47.415Z] HTTP GET /api/url/X0LWWK at 2025-07-28T06:33:47.415Z
+[2025-07-28T06:33:47.416Z] Redirecting X0LWWK -> http://localhost:5173/?
+[2025-07-28T06:34:03.327Z] HTTP POST /api/url/shorten at 2025-07-28T06:34:03.327Z
+[2025-07-28T06:34:03.327Z] URL shortened: 36cT3y -> http://localhost:5173/?
+[2025-07-28T06:34:05.417Z] HTTP GET /api/url/36cT3y at 2025-07-28T06:34:05.417Z
+[2025-07-28T06:34:05.417Z] Redirecting 36cT3y -> http://localhost:5173/?
+[2025-07-28T06:35:22.083Z] HTTP POST /api/url/shorten at 2025-07-28T06:35:22.083Z
+[2025-07-28T06:35:22.084Z] URL shortened: vksBRW -> https://youtube.com
+[2025-07-28T06:35:24.847Z] HTTP GET /api/url/vksBRW at 2025-07-28T06:35:24.847Z
+[2025-07-28T06:35:24.848Z] Redirecting vksBRW -> https://youtube.com
+[2025-07-28T06:35:52.149Z] HTTP POST /api/url/shorten at 2025-07-28T06:35:52.149Z
+[2025-07-28T06:35:52.152Z] URL shortened: 36ElRP -> https://youtube.com
+[2025-07-28T06:35:53.770Z] HTTP GET /api/url/36ElRP at 2025-07-28T06:35:53.770Z
+[2025-07-28T06:35:53.772Z] Redirecting 36ElRP -> https://youtube.com
+[2025-07-28T06:37:30.459Z] HTTP POST /api/url/shorten at 2025-07-28T06:37:30.459Z
+[2025-07-28T06:37:30.460Z] URL shortened: DSf64E -> https://youtube.com
+[2025-07-28T06:37:32.164Z] HTTP GET /api/url/DSf64E at 2025-07-28T06:37:32.164Z
+[2025-07-28T06:37:32.164Z] Redirecting DSf64E -> https://youtube.com
+[2025-07-28T06:37:55.805Z] HTTP POST /api/url/shorten at 2025-07-28T06:37:55.805Z
+[2025-07-28T06:37:55.805Z] URL shortened: 5KHUqx -> https://youtube.com
+[2025-07-28T06:38:54.041Z] HTTP GET /api/url/5KHUqx at 2025-07-28T06:38:54.041Z
+[2025-07-28T06:38:54.041Z] Redirecting 5KHUqx -> https://youtube.com
+[2025-07-28T06:39:03.418Z] Expired URL access attempt: 5KHUqx
+[2025-07-28T06:39:03.418Z] HTTP GET /api/url/5KHUqx at 2025-07-28T06:39:03.418Z
+[2025-07-28T06:41:07.449Z] HTTP POST /api/url/shorten at 2025-07-28T06:41:07.449Z
+[2025-07-28T06:41:07.450Z] URL shortened: aGsrwZ -> https://youtube.com
+[2025-07-28T06:41:37.310Z] HTTP POST /api/url/shorten at 2025-07-28T06:41:37.310Z
+[2025-07-28T06:42:02.835Z] HTTP POST /api/url/shorten at 2025-07-28T06:42:02.835Z
+[2025-07-28T06:42:07.646Z] HTTP POST /api/url/shorten at 2025-07-28T06:42:07.646Z
+[2025-07-28T06:42:15.899Z] HTTP POST /api/url/shorten at 2025-07-28T06:42:15.899Z
+[2025-07-28T06:42:25.212Z] HTTP POST /api/url/shorten at 2025-07-28T06:42:25.212Z
+[2025-07-28T06:42:49.117Z] HTTP POST /api/url/shorten at 2025-07-28T06:42:49.117Z
+[2025-07-28T06:42:49.118Z] URL shortened: 2uRxdu -> http://localhost:5173/?
+[2025-07-28T06:43:03.339Z] HTTP POST /api/url/shorten at 2025-07-28T06:43:03.339Z
+[2025-07-28T06:43:03.340Z] URL shortened: l3xgIG -> https://youtube.com
+[2025-07-28T06:43:12.418Z] HTTP GET /api/url/l3xgIG at 2025-07-28T06:43:12.418Z
+[2025-07-28T06:43:12.418Z] Redirecting l3xgIG -> https://youtube.com
+[2025-07-28T06:43:54.659Z] HTTP POST /api/url/shorten at 2025-07-28T06:43:54.659Z
+[2025-07-28T06:43:54.662Z] URL shortened: QH1kNl -> https://youtube.com
+[2025-07-28T06:43:57.012Z] HTTP POST /api/url/shorten at 2025-07-28T06:43:57.012Z
+[2025-07-28T06:43:57.013Z] URL shortened: S5TVu2 -> https://youtube.com
+[2025-07-28T06:43:58.846Z] HTTP POST /api/url/shorten at 2025-07-28T06:43:58.846Z
+[2025-07-28T06:43:58.846Z] URL shortened: zcFky8 -> https://youtube.com
+[2025-07-28T06:44:09.166Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:09.166Z
+[2025-07-28T06:44:09.167Z] URL shortened: Fkn5OS -> https://youtube.com
+[2025-07-28T06:44:09.904Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:09.904Z
+[2025-07-28T06:44:09.905Z] URL shortened: gKwrYQ -> https://youtube.com
+[2025-07-28T06:44:10.118Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.118Z
+[2025-07-28T06:44:10.119Z] URL shortened: x9usxv -> https://youtube.com
+[2025-07-28T06:44:10.309Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.309Z
+[2025-07-28T06:44:10.310Z] URL shortened: y2nndh -> https://youtube.com
+[2025-07-28T06:44:10.468Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.468Z
+[2025-07-28T06:44:10.468Z] URL shortened: KMKMyb -> https://youtube.com
+[2025-07-28T06:44:10.620Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.620Z
+[2025-07-28T06:44:10.622Z] URL shortened: xL11kd -> https://youtube.com
+[2025-07-28T06:44:10.797Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.797Z
+[2025-07-28T06:44:10.797Z] URL shortened: p9rxyc -> https://youtube.com
+[2025-07-28T06:44:10.962Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:10.962Z
+[2025-07-28T06:44:10.962Z] URL shortened: wrRHyV -> https://youtube.com
+[2025-07-28T06:44:11.135Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:11.135Z
+[2025-07-28T06:44:11.138Z] URL shortened: kf6U1b -> https://youtube.com
+[2025-07-28T06:44:11.315Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:11.315Z
+[2025-07-28T06:44:11.316Z] URL shortened: PI2gGY -> https://youtube.com
+[2025-07-28T06:44:11.492Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:11.492Z
+[2025-07-28T06:44:11.494Z] URL shortened: L4cSrk -> https://youtube.com
+[2025-07-28T06:44:11.658Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:11.658Z
+[2025-07-28T06:44:11.659Z] URL shortened: 5rhO6K -> https://youtube.com
+[2025-07-28T06:44:11.879Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:11.879Z
+[2025-07-28T06:44:11.880Z] URL shortened: 6JE7XH -> https://youtube.com
+[2025-07-28T06:44:34.517Z] HTTP POST /api/url/shorten at 2025-07-28T06:44:34.517Z
+[2025-07-28T06:44:34.518Z] URL shortened: DNCKHB -> https://youtube.com
+[2025-07-28T06:45:02.411Z] HTTP POST /api/url/shorten at 2025-07-28T06:45:02.411Z
+[2025-07-28T06:45:48.118Z] HTTP POST /api/url/shorten at 2025-07-28T06:45:48.118Z
+[2025-07-28T06:46:01.377Z] HTTP POST /api/url/shorten at 2025-07-28T06:46:01.377Z
+[2025-07-28T06:46:01.378Z] URL shortened: aGf300 -> http://localhost:5173/?
+[2025-07-28T06:46:13.977Z] HTTP POST /api/url/shorten at 2025-07-28T06:46:13.977Z
+[2025-07-28T06:46:47.371Z] HTTP POST /api/url/shorten at 2025-07-28T06:46:47.371Z
+[2025-07-28T06:46:47.373Z] URL shortened: tC1Uwu -> http://localhost:5173/
+[2025-07-28T06:46:56.739Z] HTTP POST /api/url/shorten at 2025-07-28T06:46:56.739Z
+[2025-07-28T06:47:55.596Z] HTTP POST /api/url/shorten at 2025-07-28T06:47:55.596Z
+[2025-07-28T06:48:25.518Z] HTTP POST /api/url/shorten at 2025-07-28T06:48:25.518Z
+[2025-07-28T06:48:25.520Z] URL shortened: 123 -> http://localhost:5000/
+[2025-07-28T06:48:57.827Z] HTTP POST /api/url/shorten at 2025-07-28T06:48:57.827Z
+[2025-07-28T06:50:08.305Z] HTTP POST /api/url/shorten at 2025-07-28T06:50:08.305Z
+[2025-07-28T06:50:54.304Z] HTTP POST /api/url/shorten at 2025-07-28T06:50:54.304Z
+[2025-07-28T06:51:13.832Z] HTTP POST /api/url/shorten at 2025-07-28T06:51:13.832Z
+[2025-07-28T06:51:13.833Z] URL shortened: 1233 -> http://localhost:5000/
+[2025-07-28T06:53:06.433Z] HTTP POST /api/url/shorten at 2025-07-28T06:53:06.433Z
+[2025-07-28T06:53:13.429Z] HTTP POST /api/url/shorten at 2025-07-28T06:53:13.429Z
+[2025-07-28T06:53:16.923Z] HTTP POST /api/url/shorten at 2025-07-28T06:53:16.923Z
+[2025-07-28T06:53:16.923Z] URL shortened: 12334 -> http://localhost:5000/
