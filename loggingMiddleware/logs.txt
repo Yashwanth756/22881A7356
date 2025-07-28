@@ -120,3 +120,17 @@
 [2025-07-28T06:53:13.429Z] HTTP POST /api/url/shorten at 2025-07-28T06:53:13.429Z
 [2025-07-28T06:53:16.923Z] HTTP POST /api/url/shorten at 2025-07-28T06:53:16.923Z
 [2025-07-28T06:53:16.923Z] URL shortened: 12334 -> http://localhost:5000/
+[2025-07-28T07:04:51.780Z] URL shortened: 2MLiFC -> http://localhost:5173/
+[2025-07-28T07:04:51.777Z] HTTP POST /api/url/shorten at 2025-07-28T07:04:51.777Z
+[2025-07-28T07:04:52.988Z] HTTP GET /api/url/2MLiFC at 2025-07-28T07:04:52.988Z
+[2025-07-28T07:04:52.989Z] Redirecting 2MLiFC -> http://localhost:5173/
+[2025-07-28T07:06:08.608Z] HTTP POST /api/url/shorten at 2025-07-28T07:06:08.608Z
+[2025-07-28T07:06:08.609Z] URL shortened: abc -> https://youtube.com
+[2025-07-28T07:07:01.976Z] HTTP GET /api/url/abc at 2025-07-28T07:07:01.976Z
+[2025-07-28T07:07:01.976Z] Redirecting abc -> https://youtube.com
+[2025-07-28T07:08:52.128Z] HTTP POST /api/url/shorten at 2025-07-28T07:08:52.128Z
+[2025-07-28T07:08:56.888Z] HTTP POST /api/url/shorten at 2025-07-28T07:08:56.888Z
+[2025-07-28T07:08:56.890Z] URL shortened: abcd -> https:youtube.com
+[2025-07-28T07:08:58.558Z] HTTP GET /api/url/abcd at 2025-07-28T07:08:58.558Z
+[2025-07-28T07:08:58.559Z] Redirecting abcd -> https:youtube.com
+[2025-07-28T07:09:14.192Z] HTTP POST /api/url/shorten at 2025-07-28T07:09:14.192Z

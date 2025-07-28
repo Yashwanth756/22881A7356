@@ -44,7 +44,7 @@ export default function App() {
         {shortUrl && (
           <p>
             Short URL:{' '}
-            <a className="text-blue-600" href={shortUrl}  rel="noopener noreferrer">
+            <a className="text-blue-600" href={shortUrl} target='_blank'  rel="noopener noreferrer">
               {shortUrl}
             </a>
           </p>
